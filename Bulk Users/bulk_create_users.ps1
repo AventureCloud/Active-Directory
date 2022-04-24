@@ -1,4 +1,3 @@
-#Create a Folder in C Drive called BulkUsers and save the files 'users_list.csv' and 'bulk_create_users.ps1'
 #Import active directory module for running AD cmdlets
 Import-Module activedirectory
 
